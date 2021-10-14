@@ -1,0 +1,12 @@
+Dados do aluno
+
+-Primeiro Nome: Debora Sampaio de Oliveira
+-Profissão: Qa
+-Cidade: Londrina
+-O que faz nas horas vaga: Estudo
+-Feedback sobre o curso Qualidade de Software: Poderia ser melhor
+-Feedback sobre a plataforma de estudo da EBAC: Poderia melhorar a forma de subir os exercicios
+
+Obrigado!!!
+
+
